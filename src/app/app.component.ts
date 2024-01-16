@@ -6,6 +6,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
 
+  filtro: string = '';
   public title: string = 'Hola Mundo';
 
 
